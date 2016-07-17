@@ -4,20 +4,20 @@ Next, write a function to create an option element for a form's select field. Ma
 
 When the user clicks the submit button, return the statement "The month of $month has $number days.", where $month is the name of the month the user chose, and $number is the number of days. Be sure to include a different response for February.
 
-### REWARD
+#### REWARD
 * N5,000 Cash Reward
 * Career & Professional Mentorship
 * 10 Code Points
 
 
-### SUBMISSION INSTRUCTION 
+#### SUBMISSION INSTRUCTION 
 * Click the registration button at the top of this page.
 * Once registered, come back to this page with a participate button.
 * Click the participate button at the top of the page.
 * Upload your zipped code
 
 
-### SELECTION CRITERIA
+#### SELECTION CRITERIA
 All entries will be judged using the following criteria:
 * Code cleanness.
 * Code efficiency (less lines of code do more)
@@ -26,11 +26,11 @@ All entries will be judged using the following criteria:
 * Handling of special cases
 
 
-### ELIGIBILITY CRITERIA
+#### ELIGIBILITY CRITERIA
 Candidate must be a student of either a university or polytechnic in Nigeria. A proof of identification will be requested to redeem prize.
 
-### WINNER SELECTION
+#### WINNER SELECTION
 Winners are selected by Codulab team and are chosen solely at the Codulab's discretion. 
 
-### PAYMENTS
+#### PAYMENTS
 Codulab will compensate members in accordance with the payment structure of this challenge. The payment will be made when the eligible winner has been announced.
