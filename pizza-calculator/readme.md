@@ -2,8 +2,8 @@ You are at a party, your guests are getting hungry and you, as a good host, woul
 
 Your solution should work for any of the sizes of pizza as shown below. You can see the slices that can be gotten from different sizes of pizza
 
-**Small Pizza - 4 Slices**
-**Medium Pizza - 6 Slices**
+**Small Pizza - 4 Slices**,
+**Medium Pizza - 6 Slices**,
 **Large Pizza - 8 Slices**
 
 ![Pizza Slices](https://github.com/Codulab/codeclass-challenges/raw/master/pizza-calculator/pizza-slices.jpg)
