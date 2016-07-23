@@ -1,12 +1,26 @@
 You are at a party, your guests are getting hungry and you, as a good host, would like to order some pizza for them. The problem is that you don't know how many slices each person eats, neither how many large, medium or small pizzas to order. So you go and ask around your guests to find out who eats 1 slice of pizza, 2 slices of pizza, 3 slices of pizza or 4 slices of pizza. For the sake of this problem, your guests don't eat more than 4 slices of pizza
 
-Your solution should work for any chess board size. A chess board is always a square. Bishops can only move diagonally. The bishop can be placed on any square of the board (black or white). Find the number of squares the bishop is attacking without including his own square.
+Your solution should work for any of the sizes of pizza as shown below.
+
+![Pizza Slices](/pizza-calculator/pizza-slices.jpg)
 
 ##### Input
 For the input, you will create a form like the one shown below when you can enter the no of people eating various pizza slice.
 
 ![Pizza Calculator](/pizza-calculator/pizza-calculator.png)
 
+##### Output
+After you entered how many of your guests eat different slices of pizza, your program will automatically calculate how many small, medium and large pizzas you will need to satisfy your guests in this format:
+
+**"Large Pizzas: X"**
+
+**"Medium Pizzas: Y"**
+
+**"Small Pizzas: Z"**
+
+
+##### Specification
+You can build your solution using PHP, Vanilla Javascript or NodeJS
 
 #### REWARD
 * N10,000 Cash Reward
