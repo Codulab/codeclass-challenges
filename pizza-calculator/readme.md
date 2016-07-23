@@ -5,7 +5,7 @@ Your solution should work for any chess board size. A chess board is always a sq
 ##### Input
 For the input, you will create a form like the one shown below when you can enter the no of people eating various pizza slice.
 
-![Pizza Calculator](/codeclass-challenges/pizza-calculator/pizza-calculator.png)
+![Pizza Calculator](/pizza-calculator/pizza-calculator.png)
 
 
 #### REWARD
