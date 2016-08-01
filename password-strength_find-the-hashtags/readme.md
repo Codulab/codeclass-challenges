@@ -1,4 +1,4 @@
-#### The Password Strength
+#### The Password Strength Challenge
 
 In this challenge you will create a form that will receive a string containing a password that the user is trying to set and you will have to make sure that password is valid and secure. The criterias are:
 
@@ -11,7 +11,7 @@ In this challenge you will create a form that will receive a string containing a
 
 Depending on the user input, you will echo back "Valid" or "Invalid" message.
 
-#### Find the #hashtags
+#### Find the #Hashtags Challenge
 
 In this challenge you will create a form that will receive a string like a user comment in your social network and you will need to retrieve the valid #hashtags that the user inserted during the comment.
 
