@@ -13,39 +13,30 @@ Depending on the user input, you will echo back "Valid" or "Invalid" message.
 
 #### Find the #hashtags
 
-You are at a party, your guests are getting hungry and you, as a good host, would like to order some pizza for them. The problem is that you don't know how many slices each person eats, neither how many large, medium or small pizzas to order. So you go and ask around your guests to find out who eats 1 slice of pizza, 2 slices of pizza, 3 slices of pizza or 4 slices of pizza. For the sake of this problem, your guests don't eat more than 4 slices of pizza
+In this challenge you will create a form that will receive a string like a user comment in your social network and you will need to retrieve the valid #hashtags that the user inserted during the comment.
 
-Your solution should work for any of the sizes of pizza as shown below. You can see the slices that can be gotten from different sizes of pizza
+The rules to detect a valid #hashtags are:
 
-**Small Pizza - 4 Slices**,
-**Medium Pizza - 6 Slices**,
-**Large Pizza - 8 Slices**
+- Hashtags are alphanumeric strings ([a-zA-Z0-9]) prefixed with the hash symbol "#" (e.g. "#keyword" is a valid hashtag and #2Words!? counts as "2Words" only)
+- Hashtags cannot be in the middle of a words or characters (e.g. "some#word" and ".?!#word" are invalid)
+- Hash symbols ("#") alone are not valid
+- If a word is preceded by more than one hash symbol, only one hashtag counts (e.g. "###keyword" counts only as "keyword")
+- Since hashtags are only alphanumeric [a-zA-Z0-9] in case (e.g. "###keyword" counts only as "keyword")
 
-![Pizza Slices](https://github.com/Codulab/codeclass-challenges/raw/master/pizza-calculator/pizza-slices.jpg)
+The output should be a string with the hashtags in order separated by commas without spaces
 
-##### Input
-For the input, you will create a form like the one shown below when you can enter the no of people eating various pizza slice.
-
-![Pizza Calculator](https://github.com/Codulab/codeclass-challenges/raw/master/pizza-calculator/pizza-calculator.png)
-
-##### Output
-After you entered how many of your guests eat different slices of pizza, your program will automatically calculate how many small, medium and large pizzas you will need to satisfy your guests in this format:
-
-**"Large Pizzas: X"**
-
-**"Medium Pizzas: Y"**
-
-**"Small Pizzas: Z"**
-
+Example: if you enter something like; Woow awesome #pic dude #lmao #omg. The output should be pic,lmao,omg
 
 ##### Specification
 You can build your solution using PHP, Vanilla Javascript or NodeJS
 
 #### REWARD
-* N10,000 Cash Reward
+* N2,500 Cash Reward
 * Career & Professional Mentorship
 * 10 Code Points
+* Heroku T-shirt
 
+![Heroku T-Shirt](http://static1.squarespace.com/static/555684a5e4b0d497d6e42fdd/55662b74e4b02498921fe7de/55fdb3f2e4b051db9c949807/1461994373041/IMG_0944.JPG)
 
 #### SUBMISSION INSTRUCTION 
 * Click the registration button at the top of this page.
