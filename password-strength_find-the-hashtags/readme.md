@@ -36,7 +36,7 @@ You can build your solution using PHP, Vanilla Javascript or NodeJS
 * 10 Code Points
 * Heroku T-shirt
 
-![Heroku T-Shirt](http://static1.squarespace.com/static/555684a5e4b0d497d6e42fdd/55662b74e4b02498921fe7de/55fdb3f2e4b051db9c949807/1461994373041/IMG_0944.JPG)
+![Heroku T-Shirt](https://goo.gl/photos/1N5uxB4p9cNk7idP9)
 
 #### SUBMISSION INSTRUCTION 
 * Click the registration button at the top of this page.
