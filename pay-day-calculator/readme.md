@@ -1,6 +1,6 @@
 Create a Paydate Calculator script that when a button is clicked, it must be able to return the next 10 paydates after today.
 
-### Rules
+##### Rules
 
 * The Paydate Calculator must run without generating errors or warnings
 * A valid paydate cannot fall on today, a weekend or a holiday
@@ -9,7 +9,7 @@ Create a Paydate Calculator script that when a button is clicked, it must be abl
 * Holiday adjustments takes precedence over weekend adjustments
 * The initial paydate given to your class should not be adjusted, even if it falls on a weekend or a holiday
 
-### Public Holidays
+##### Public Holidays
 
 $holidays = ['01-01-2016', '08-03-2016', '20-03-2016', '25-03-2016', '28-03-2016', '02-05-2016', '30-05-2016', '20-06-2016', '05-07-2016', '06-07-2016', '07-07-2016', '13-09-2016', '14-09-2016', '12-12-2016', '21-12-2016', '12-12-2016', '14-04-2017', '17-04-2017', '01-05-2017', '29-05-2017'];
 
