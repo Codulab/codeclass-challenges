@@ -1,4 +1,4 @@
-In this challenge you create a form that will take a string input and you will have to analyze text and gather some analytics about the text and plot that in a graph. The analytics are:
+In this challenge you create a form that will take a text input and you will have to analyze the input and gather some analytics about the text and plot that in a graph. The analytics are:
 
 * Number of words
 * Number of letters
@@ -7,6 +7,7 @@ In this challenge you create a form that will take a string input and you will h
 * Number of letters used three or more times
 * Number of words only used once
 
+![Sample Graph](https://github.com/Codulab/codeclass-challenges/raw/master/text-analytics/graph.png)
 
 ##### Specification
 You can build your solution using PHP, Javascript or NodeJS. If you're using python ensure you host your solution on Heroku - https://www.heroku.com/
