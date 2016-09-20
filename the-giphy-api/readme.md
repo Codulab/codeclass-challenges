@@ -5,7 +5,7 @@ In this challenge you are to create an app that takes input from a user and sear
 
 You will be needing an API key for this challenge. The giphy API documentation and public API key can be found [here](https://github.com/Giphy/GiphyAPI) 
 
-###Rules
+### Rules
 * The Giphy App must run without generating errors or warnings
 * It should display results ( if any ) for the **first word** only in the user's input.
 * Your App should display at most ten ( 10 ) results.
@@ -40,7 +40,7 @@ All entries will be judged using the following criteria:
 
 
 #### ELIGIBILITY CRITERIA
-Candidate must be a student of either a university or polytechnic in Nigeria and must be a participant of the codeclass programme in that school. A proof of identification will be requested to redeem prize.
+Candidate must be a student of either a university or polytechnic in Nigeria. A proof of identification will be requested to redeem prize.
 
 #### WINNER SELECTION
 Winners are selected by Codulab team and are chosen solely at the Codulab's discretion. 
