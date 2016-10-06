@@ -7,15 +7,10 @@ You are to create a beautiful webpage that displays products for sale in grid vi
 * The page should have a title and a shopping cart icon at the top-right corner ( You need not implement a real shopping cart ).
 * Beside the icon, should be a number representing the total items in the "imaginary" shopping cart.
 * In addition to its title and tagline, each product has an attribute named "description". Update the UI so that whenever you mouseover a product, an overlay comes across it with the description.
-
 * Convert the page to use Bootstrap to make it responsive, so when it's viewed on a mobile device there's no left-right scrolling and it still looks ok visually (i.e. it's easy to read)
-
 * Add an "X" in the top right corner of each product. When you clicked, it removes the product from the page.
-
 * The "Add to Cart" button should be clickable, and when clicked, it must increment the number of items in the cart.
-
 * Perform a few style edits: link colors should be #0096ff, The title of the page should be 36 pixels high. The tagline of the page should be 18. Title of each product should be 16 pixels high. The product tagline should be 16. Center everything on the page including titles and the products display.
-
 * Use some kind of transition when removing a product from the page via the "X"
 
 
