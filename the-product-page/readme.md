@@ -7,21 +7,21 @@ You are to create a beautiful webpage that displays products for sale in grid vi
 
 ![Product Page](https://github.com/Codulab/codeclass-challenges/raw/master/the-product-page/product-page.png)
 
-1. The page should have a title and a shopping cart icon at the top-right corner ( You need not implement a real shopping cart ).
+* The page should have a title and a shopping cart icon at the top-right corner ( You need not implement a real shopping cart ).
 
-2. Beside the icon, should be a number representing the total items in the "imaginary" shopping cart.
+* Beside the icon, should be a number representing the total items in the "imaginary" shopping cart.
 
-3. In addition to its title and tagline, each product has an attribute named "description". Update the UI so that whenever you mouseover a product, an overlay comes across it with the description.
+* In addition to its title and tagline, each product has an attribute named "description". Update the UI so that whenever you mouseover a product, an overlay comes across it with the description.
 
-4. Convert the page to use Bootstrap to make it responsive, so when it's viewed on a mobile device there's no left-right scrolling and it still looks ok visually (i.e. it's easy to read)
+* Convert the page to use Bootstrap to make it responsive, so when it's viewed on a mobile device there's no left-right scrolling and it still looks ok visually (i.e. it's easy to read)
 
-5. Add an "X" in the top right corner of each product. When you clicked, it removes the product from the page.
+* Add an "X" in the top right corner of each product. When you clicked, it removes the product from the page.
 
-6. The "Add to Cart" button should be clickable, and when clicked, it must increment the number of items in the cart.
+* The "Add to Cart" button should be clickable, and when clicked, it must increment the number of items in the cart.
 
-7. Perform a few style edits: link colors should be #0096ff, The title of the page should be 36 pixels high. The tagline of the page should be 18. Title of each product should be 16 pixels high. The product tagline should be 16. Center everything on the page including titles and the products display.
+* Perform a few style edits: link colors should be #0096ff, The title of the page should be 36 pixels high. The tagline of the page should be 18. Title of each product should be 16 pixels high. The product tagline should be 16. Center everything on the page including titles and the products display.
 
-8. Use some kind of transition when removing a product from the page via the "X"
+* Use some kind of transition when removing a product from the page via the "X"
 
 
 ##### Specification
