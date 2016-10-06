@@ -1,9 +1,13 @@
 #The Products Page
 
 
-This Challenge tests your front end engineering skill.
+This Challenge tests your front-end engineering skill. This challenge is designed to let you show your thought process and approach to some basic tasks of front-end engineering. There are many ways to perform these tasks and we are not looking for a particular "right way". However, we do appreciate some basic principles of software design including performance, maintainability, usability, etc...
 
-You are to create a beautiful webpage that displays products for sale in grid view.
+You are to create a beautiful webpage that displays products for sale in grid view as shown below.
+
+![Product Page](https://github.com/Codulab/codeclass-challenges/raw/master/the-product-page/product-page.png)
+
+
 The page should have a title and a shopping cart icon at the top-right corner ( You need not implement a real shopping cart ).
 Beside the icon, should be a number representing the total items in the "imaginary" shopping cart.
 
