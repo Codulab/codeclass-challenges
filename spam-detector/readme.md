@@ -60,10 +60,10 @@ Since all users in messages received only one message each, it's impossible to c
 Your function should return an Array of 4 strings, the results of checks per criterion. The results for each criterion should be given in the following format:
 
 *	"passed" if the check doesn't suggest that the user is a spammer, otherwise:
-    1.   for the first criterion: "failed: <failed_ratio>", where <failed_ratio> is the ratio of messages with fewer than 5 words as a reduced fraction;
-    *   for the second criterion: "failed: <recipient_1> <recipient_2> ...", where <recipient_i> is id of the spammed user. Recipients should be sorted in ascending order of their ids;
-    *   for the third criterion: "failed: <message>", where <message> is the message sent to more than 50 % of recipients;
-    *   for the fourth criterion: "failed: <spamSignal_1> <spamSignal_2> ...", where <spamSignal_i> is the spam signal that appeared in at least one message. Spam signals should be sorted Alphabtically.
+    1.   for the first criterion: "failed: < failed_ratio > ", where < failed_ratio > is the ratio of messages with fewer than 5 words as a reduced fraction;
+    *   for the second criterion: "failed: < recipient_1 > < recipient_2 > ...", where < recipient_i > is id of the spammed user. Recipients should be sorted in ascending order of their ids;
+    *   for the third criterion: "failed: < message >", where < message > is the message sent to more than 50 % of recipients;
+    *   for the fourth criterion: "failed: < spamSignal_1 > < spamSignal_2 > ...", where < spamSignal_i > is the spam signal that appeared in at least one message. Spam signals should be sorted Alphabtically.
 
 
 
