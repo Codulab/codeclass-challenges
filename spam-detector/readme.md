@@ -57,7 +57,7 @@ Since you are applying for the Anti-Spam team at Codeclass, you want to make sur
 Since all users in messages received only one message each, it's impossible to check the second criterion. The fourth criterion doesn't match: there are no spam signals in the messages. However, the first and the third criteria failed, since all the messages contain 4 words and have the same content.
 
 ### Returning Your Result:
-    Your function should return an Array of 4 strings, the results of checks per criterion. The results for each criterion should be given in the following format:
+Your function should return an Array of 4 strings, the results of checks per criterion. The results for each criterion should be given in the following format:
 
 *	"passed" if the check doesn't suggest that the user is a spammer, otherwise:
     1.   for the first criterion: "failed: <failed_ratio>", where <failed_ratio> is the ratio of messages with fewer than 5 words as a reduced fraction;
