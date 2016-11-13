@@ -30,11 +30,12 @@ Since you are applying for the Anti-Spam team at Codeclass, you want to make sur
       "failed: offer sale"
     ]
 
-    Here are the results of the checks per criterion:
-        4 out of 5 (80 %) messages have fewer than five words, which is fine;
-        2 out of 3 messages to user 2837273 are the same, which is a good spam indicator; also, both messages to user 3873827 are the same;
-        2 out of 5 (40 %) messages have the same content, which is fine;
-        4 out of 5 (80 %) messages contain spam signals "offer" or "sale".
+  Here are the results of the checks per criterion:
+
+  * 4 out of 5 (80 %) messages have fewer than five words, which is fine;
+* 2 out of 3 messages to user 2837273 are the same, which is a good spam indicator; also, both messages to user 3873827 are the same;
+ *   2 out of 5 (40 %) messages have the same content, which is fine;
+ *    4 out of 5 (80 %) messages contain spam signals "offer" or "sale".
 
 ### Example 2:
     For
@@ -53,7 +54,7 @@ Since you are applying for the Anti-Spam team at Codeclass, you want to make sur
       "passed"
     ]
 
-    Since all users in messages received only one message each, it's impossible to check the second criterion. The fourth criterion doesn't match: there are no spam signals in the messages. However, the first and the third criteria failed, since all the messages contain 4 words and have the same content.
+Since all users in messages received only one message each, it's impossible to check the second criterion. The fourth criterion doesn't match: there are no spam signals in the messages. However, the first and the third criteria failed, since all the messages contain 4 words and have the same content.
 
 ### Returning Your Result:
     Your function should return an Array of 4 strings, the results of checks per criterion. The results for each criterion should be given in the following format:
