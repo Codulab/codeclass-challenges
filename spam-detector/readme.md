@@ -10,7 +10,7 @@ At the very beginning, the bots were not that clever. The spam detection could e
 3. more than 50 % of all messages had the same content, assuming that there were at least 2 messages;
 4. more than 50 % of all messages contained at least one of the words from the given list of spamSignals (the letters' case doesn't matter).
 
-Since you are applying for the Anti-Spam team at Codeclass, you want to make sure you understand how the basic spam detection programs worked. Implement a function that, given a stream of messages and a list of spamSignals checks if it is possible that the user is a spammer by checking the criteria above.
+Since you are applying for the Anti-Spam team at Codeclass, you want to make sure you understand how the basic spam detection programs worked. *Implement a function* (write a function) that, given a stream of messages and a list of spamSignals checks if it is possible that the user is a spammer by checking the criteria above.
 
 ### Example 1:
     For
@@ -57,7 +57,7 @@ Since you are applying for the Anti-Spam team at Codeclass, you want to make sur
 Since all users in messages received only one message each, it's impossible to check the second criterion. The fourth criterion doesn't match: there are no spam signals in the messages. However, the first and the third criteria failed, since all the messages contain 4 words and have the same content.
 
 ### Returning Your Result:
-Your function should return an Array of 4 strings, the results of checks per criterion. The results for each criterion should be given in the following format:
+*Your function* should return an Array of 4 strings, the results of checks per criterion. The results for each criterion should be given in the following format:
 
 *	"passed" if the check doesn't suggest that the user is a spammer, otherwise:
     1.   for the first criterion: "failed: < failed_ratio > ", where < failed_ratio > is the ratio of messages with fewer than 5 words as a reduced fraction;
